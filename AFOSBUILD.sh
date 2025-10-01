@@ -22,6 +22,3 @@ else
 fi
 
 cp -Rf s3scanner /opt/ANDRAX/bin
-
-chown -R andrax:andrax /opt/ANDRAX
-chmod -R 755 /opt/ANDRAX
